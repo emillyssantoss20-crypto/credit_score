@@ -6,7 +6,7 @@ O trabalho termina na preparação dos dados: não há treinamento nem comparaç
 
 ## Notebook
 
-- **Google Colab:** [<link do Colab>](https://colab.research.google.com/drive/13bq6nxKTj4U0XGQPIbfYbt0QqNoFdS5C?usp=sharing)
+- **Google Colab:** https://colab.research.google.com/drive/13bq6nxKTj4U0XGQPIbfYbt0QqNoFdS5C?usp=sharing
 - **Arquivo neste repositório:** `<nome-do-notebook>.ipynb`
 
 ## Objetivo
